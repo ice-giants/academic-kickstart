@@ -76,6 +76,8 @@ user_groups = []
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
+
+
 +++
 
-Website for the Royal Society Discussion Meeting on the Exploration of the Ice Giants in the 2020s.
+In 2020, Planetary Scientists from around the world will meet at London's prestigious Royal Society for a three-day workshop on the future exploration of distant Uranus and Neptune.
