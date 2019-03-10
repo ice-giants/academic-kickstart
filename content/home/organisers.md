@@ -43,7 +43,6 @@ subtitle = ""
  css_class = ""
 +++
 
-# Scientific Organising Committee:
 * Leigh Fletcher (University of Leicester)
 * Adam Masters (Imperial College)
 * Ian Cohen (Applied Physics Laboratory)
