@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Organisers"
+title = "Registration and Abstracts"
 subtitle = ""
 
 [design]
@@ -43,13 +43,8 @@ subtitle = ""
  css_class = ""
 +++
 
-* Leigh Fletcher (University of Leicester)
-* Adam Masters (Imperial College)
-* Ian Cohen (Applied Physics Laboratory)
-* Amy Simon (Goddard Spaceflight Center)
-* Mark Hofstadter (Jet Propulsion Laboratory)
-* Athena Coustenis (Observatoire de Paris Meudon)
-* Chris Arridge (Lancaster University)
-* Kathleen Mandt (Applied Physics Laboratory)
+Registration for the Royal Society plenary sessions, the poster sessions, and the splinter sessions, will all open shortly.  Please return to this page for more details about the registration and abstract process.  
 
-Along with advice and guidance from Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis and Abigail Rymer.
+The plenary sessions are free to attend, but advance registration is essential.
+
+Splinter session registration will be handled separately, and a small fee will be charged to cover venue hire and catering.

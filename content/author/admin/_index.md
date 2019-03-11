@@ -13,7 +13,7 @@ role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Royal Society", url = "www.royalsociety.org" } ]
+organizations = [ { name = "Royal Society", url = "http://www.royalsociety.org" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -80,4 +80,10 @@ user_groups = []
 
 +++
 
-In 2020, Planetary Scientists from around the world will meet at London's prestigious Royal Society for a three-day workshop on the future exploration of distant Uranus and Neptune.
+The Ice Giants, **Uranus and Neptune**, are the least explored class of planets in our Solar System, having been visited only once by a passing spacecraft, Voyager 2.  These distant worlds may be hiding secrets that could reveal the origins of our Solar System, and are our nearest and best representatives of a type of planet that is commonplace in our universe.
+
+In January 2020, Planetary Scientists from around the world will meet at London's prestigious [Royal Society](https://royalsociety.org/) for a three-day workshop on the future exploration of distant Uranus and Neptune.  We will aim to shape the key scientific questions that will drive mission planning in the coming decade, aiming to make use of ideal launch opportunities around 2030.  
+
+Please save the date, and *join us in London on January 20th-22nd 2020.*  
+
+\#IceGiants2020

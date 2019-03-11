@@ -19,19 +19,29 @@
     weight = 30
 
 [[main]]
+    name = "Invited Speakers"
+    url = "#invitees"
+    weight = 40
+
+[[main]]
+    name = "Registration & Abstracts"
+    url = "#registration"
+    weight = 50
+
+[[main]]
     name = "Organisers"
     url = "#organisers"
-    weight = 40
+    weight = 60
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Local Information"
   url = "#local-info"
-  weight = 60
+  weight = 80
 
 #[[main]]
 #  name = "Publications"

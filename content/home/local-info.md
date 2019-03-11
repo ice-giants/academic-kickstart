@@ -44,3 +44,7 @@ subtitle = ""
 +++
 
 Details on accommodation and transport during your stay in London.
+
+Please check back for further details.
+
+Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).

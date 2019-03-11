@@ -38,8 +38,8 @@ categories = []
   focal_point = ""
 +++
 
-# COSPAR Symposium B5.4 – Wednesday July 18th 2018
-# Ice Giant Systems:  New Results and Future Exploration
+## COSPAR Symposium B5.4 – Wednesday July 18th 2018
+## Ice Giant Systems:  New Results and Future Exploration
 MSO: Leigh Fletcher (Univ. of Leicester)
 DSO:   Amy Simon (Goddard Spaceflight Center)
 
