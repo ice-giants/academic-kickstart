@@ -5,7 +5,7 @@ subtitle = ""
 # Add a summary to display on homepage (optional).
 summary = "Final report of the Ice Giants pre-decadal study."
 
-date = 2017-07-10T21:50:53Z
+date = 2017-07-10T22:04:32Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

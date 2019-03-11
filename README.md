@@ -58,7 +58,10 @@ From the top-level directory:
 git add .
 git commit -m "Initial commit"
 git push -u origin master
+
 academic import --bibtex references.bib --overwrite
+hugo new  --kind post post/my-article-name
+
 hugo
 cd public
 git add .
