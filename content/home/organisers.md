@@ -46,10 +46,10 @@ subtitle = ""
 * Leigh Fletcher (University of Leicester)
 * Adam Masters (Imperial College)
 * Ian Cohen (Applied Physics Laboratory)
-* Amy Simon (Goddard Spaceflight Center)
+* Amy Simon (Goddard Space Flight Center)
 * Mark Hofstadter (Jet Propulsion Laboratory)
 * Athena Coustenis (Observatoire de Paris Meudon)
 * Chris Arridge (Lancaster University)
 * Kathleen Mandt (Applied Physics Laboratory)
 
-Along with advice and guidance from Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis and Abigail Rymer.
+Along with advice and guidance from Diego Turrini, Laurent Lamy, David Atkinson, Pontus Brandt, Olivier Witasse, Olivier Mousis, and Abigail Rymer.

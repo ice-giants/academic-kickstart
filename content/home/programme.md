@@ -43,9 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-The Ice Giants workshop will be consist of four distinct components:
+The Ice Giant Systems workshop will be consist of four distinct components:
 
-1. **Invited Reviews:** Talks at the [Royal Society](https://royalsociety.org/) (Monday and Tuesday, January 20th-21st) covering Ice Giant science (origins, interiors, atmospheres, magnetospheres), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.
+1. **Invited Reviews:** Talks at the [Royal Society](https://royalsociety.org/) (Monday and Tuesday, January 20th-21st) covering Ice Giant System science (origins, interiors, atmospheres, magnetospheres, satellites, rings), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.
 
 2. **Contributed posters:** A dedicated session at the Royal Society on Monday January 20th, showcasing the latest research.  Abstracts submitted to this session will be available to plenary speakers for their invited reviews.
 
