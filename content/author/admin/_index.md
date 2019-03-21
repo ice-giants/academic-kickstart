@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Royal Society Ice Giants 2020"
+name = "Ice Giants Systems 2020"
 
 # Username (this should match the folder name)
 authors = ["admin"]

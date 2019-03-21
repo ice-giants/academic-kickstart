@@ -3,7 +3,7 @@ title = "In Situ Entry Probes Meeting"
 subtitle = "A three-day workshop on Ice Giant Probes"
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "A three-day workshop on Ice Giant Probes"
 
 date = 2019-02-27T21:35:12Z
 draft = false
@@ -38,4 +38,4 @@ categories = []
   focal_point = ""
 +++
 
-<a class="twitter-moment" href="https://twitter.com/i/moments/1101145137814614016?ref_src=twsrc%5Etfw">In Situ Exploration of the Ice Giants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-moment" href="https://twitter.com/i/moments/1101145137814614016?ref_src=twsrc%5Etfw">In Situ Exploration of the Ice Giants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

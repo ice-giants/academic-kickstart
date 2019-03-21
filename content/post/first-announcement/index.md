@@ -37,8 +37,8 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-##First Announcement:  Ice Giant Systems 2020. **PLEASE SAVE THE DATE**
-##January 20th-22nd 2020, Royal Society, London.
+## First Announcement:  Ice Giant Systems 2020.
+## January 20th-22nd 2020, Royal Society, London.
 
 ### Overview:  
 New and ambitious missions to the distant Ice Giants and their satellites will become a key element of our Solar System exploration in the coming decades.  The planetary community is warmly invited to attend an international conference on Ice Giant exploration at the [Royal Society in London](https://royalsociety.org/science-events-and-lectures/for-scientists/]).  
