@@ -57,7 +57,7 @@ user_groups = []
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/hashtag/IceGiants2020"
+  link = "https://twitter.com/IcyGiants"
 
 #[[social]]
 #  icon = "google-scholar"
@@ -87,3 +87,5 @@ In January 2020, Planetary Scientists from around the world will meet at London'
 Please save the date, and *join us in London on January 20th-22nd 2020.*  
 
 [\#IceGiants2020](https://twitter.com/hashtag/IceGiants2020)
+
+*Email updates:  for updates, please send an email with the subject "Subscribe" to [this address](mailto:ice-giants@le.ac.uk). Your email will only be used for information associated with Ice Giant mission planning and meeting organisation, and you can unsubscribe at any time.*
