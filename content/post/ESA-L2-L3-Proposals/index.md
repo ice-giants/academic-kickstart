@@ -80,7 +80,7 @@ The ice giants Uranus and Neptune are the least understood class of planets in o
 
 ### The ODINUS Mission Concept:  The Scientific Case for a Mission to the Ice Giant Planets with Twin Spacecrafts to Unveil the History of our Solar System
 
-[Turrini et al., 2014](https://arxiv.org/abs/1402.2472)
+[Turrini et al., 2014](https://doi.org/10.1016/j.pss.2014.09.005)
 
 [Link to White Paper.](https://github.com/ice-giants/papers/blob/master/2013turrini_ODINUS.pdf)
 
