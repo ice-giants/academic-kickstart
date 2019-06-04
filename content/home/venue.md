@@ -43,8 +43,10 @@ subtitle = ""
  css_class = ""
 +++
 
-The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the [Royal Society](https://royalsociety.org/), in their [Wellcome Trust](https://royalsociety.org/venue-hire-central-london/wellcome-lecture/) lecture theatre.
+The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the [Royal Society](https://royalsociety.org/), in their [Wellcome Trust](https://royalsociety.org/venue-hire-central-london/wellcome-lecture/) lecture theatre.  Advance registration is essential via [this link.](https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/)
 
 Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).
 
-The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).
+The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).  Details on abstract submission and splinter-meeting registration are available below.
+
+The Royal Society and Burlington House are separated by a 12-minute walk via St. James's Square Gardens.

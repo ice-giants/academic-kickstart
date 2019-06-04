@@ -5,7 +5,7 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Registration and Abstracts"
@@ -42,9 +42,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Registration for the Royal Society plenary sessions (January 20th and 21st 2020) and the Splinter Workshops (January 22nd 2020) are now open.
 
-Registration for the Royal Society plenary sessions, the poster sessions, and the splinter sessions, will all open shortly.  Please return to this page for more details about the registration and abstract process.  
+1. **Plenary Registration:**  The two-day plenary sessions are free to attend, but advance registration is essential via [this link.](https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/)
 
-The plenary sessions are free to attend, but advance registration is essential.
+1. **Splinter Registration:**  Registration for the splinter workshops on January 22nd at Burlington House is via a separate process using [this link](https://shop.le.ac.uk/product-catalogue/events-at-leicester/department-of-physics-and-astronomy/ice-giant-systems-2020-splinter-meeting-registration) - a £55 fee will be charged to cover the costs of venue hire and catering (refreshments and lunch will be provided).   Closing deadline for registration is 12:00 GMT (noon) on Tuesday December 10th 2019.  
 
-Splinter session registration will be handled separately, and a small fee will be charged to cover venue hire and catering.
+1. **Abstract Submission:**  We invite contributed abstracts from the scientific community for both a poster session (Monday 20th, evening) and/or the splinter workshops on Wednesday 22nd.  Please download [this form](https://github.com/ice-giants/papers/blob/master/IG2020_abstractform.docx) and follow the instructions carefully.  This allows you to state your preferred presentation (oral or poster), your preferred splinter workshop, provide a 200-word plain text abstract, and (optionally) figures with extended captions and links for further reading.  Once complete, please send the completed form to [ice-giants@le.ac.uk](mailto:ice-giants@le.ac.uk) before 12:00 GMT on Tuesday December 10th 2019 (and remember to register for BOTH the plenaries and the splinters).
