@@ -16,7 +16,7 @@
 [[main]]
     name = "Programme"
     url = "#programme"
-    weight = 30
+    weight = 35
 
 [[main]]
     name = "Invited Speakers"
@@ -26,7 +26,7 @@
 [[main]]
     name = "Registration & Abstracts"
     url = "#registration"
-    weight = 50
+    weight = 30
 
 [[main]]
     name = "Organisers"
