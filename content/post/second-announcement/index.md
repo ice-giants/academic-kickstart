@@ -46,7 +46,7 @@ The meeting will consist of plenary lectures (Jan 20th-21st), posters (Jan 20th)
 Registration for the limited spaces is via a three-step process, open until December 10th 2019.  Full details are available on [our website](https://ice-giants.github.io).
 
 1. Plenaries: Register for the free, two-day plenary meeting on January 20th-21st at the Royal Society via:  https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/ - note that registration is mandatory for attendance.  Optional lunches can be purchased at the time of registration.
-1. plinter Meetings: Register for the one-day splinter meetings on January 22nd at Burlington House (a £55 fee will be charged to cover venue hire and catering) via: https://shop.le.ac.uk/product-catalogue/events-at-leicester/department-of-physics-and-astronomy/ice-giant-systems-2020-splinter-meeting-registration
+1. Splinter Meetings: Register for the one-day splinter meetings on January 22nd at Burlington House (a £55 fee will be charged to cover venue hire and catering) via: https://shop.le.ac.uk/product-catalogue/events-at-leicester/department-of-physics-and-astronomy/ice-giant-systems-2020-splinter-meeting-registration
 1. Abstract Submission:  Submit a poster and/or splinter meeting abstract by following the instructions on [this form]( (https://github.com/ice-giants/papers/raw/master/IG2020_abstractform.docx) and sending it to mailto:ice-giants@le.ac.uk before 12:00 GMT on Tuesday December 10th 2019.  This is your opportunity to showcase new, cutting-edge Ice Giant science to the whole community.
 
 Please spread the word, and we look forward to welcoming you to London!
