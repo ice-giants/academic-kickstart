@@ -38,50 +38,52 @@ categories = []
   focal_point = ""
 +++
 ### Overview
-In March 2019, ESA released a [call for scientific themes](https://www.cosmos.esa.int/web/voyage-2050) as part of a long-term planning process to replace the Cosmic Vision (2015-2035).  Known as Voyage 2050, this would develop a strategy for the 2035-2050 period.  White papers are due on August 5th, 2019, to be followed by a presentation to the community in October 2019.
+In March 2019, ESA released a [call for scientific themes](https://www.cosmos.esa.int/web/voyage-2050) as part of a long-term planning process to replace the Cosmic Vision (2015-2035).  Known as Voyage 2050, this would develop a strategy for the 2035-2050 period.  White papers are due on August 5th, 2019, to be followed by a presentation to the community in Madrid, October 29-31 2019.
 
 Although many of us would prefer to see the start of Ice Giant mission long before 2035, this provides the community with an opportunity to make the case for missions to Uranus and Neptune.  The white paper will describe the transformative planetary science that can only be delivered via a robotic mission to these distant worlds, and the broader context within astronomy and fundamental physics.  The white paper is a significant update to those submitted as part of the [L2/L3 process](https://ice-giants.github.io/post/esa-l2-l3-proposals/) in 2013.
 
+A preprint of the white paper is available here:
+https://arxiv.org/abs/1907.02963
+**Ice Giant Systems: The Scientific Potential of Missions to the Uranus and Neptune Systems (ESA Voyage 2050 White Paper)**
+Leigh N. Fletcher, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Sébastien Charnoz, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ravit Helled, Ricardo Hueso, Geraint Jones, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Olivier Mousis, Nadine Nettleman, Christina Plainaki, Elias Roussos, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini
+
 ### White Paper Outline
-The 20-page White Paper is being prepared by a team of ~30 planetary scientists from institutions across Europe, and will be circulated to the wider community for comment in the early summer.  The sections and authors (TBC) are as follows:
+The 20-page White Paper is being prepared by a team of 30 planetary scientists from institutions across Europe.  The sections and authors are as follows:
 
 **1. Why Explore Ice Giant Systems?**
 
   1.1 Motivations
 
-  1.2 Ice Giants in the Cosmic vision
+  1.2 Ice Giants in the Cosmic Vision
 
 **2. Science Themes for Ice Giant Exploration.**
 
-  2.1 Origins and Interiors (Ravit Helled, Nadine Nettleman, Olivier Mousis, Diego Turrini, Paolo Tortora, Jonathan Fortney)
+  2.1 Origins and Interiors (Ravit Helled, Nadine Nettleman, Olivier Mousis, Diego Turrini, Paolo Tortora, Jonathan Fortney, Yohai Kaspi)
 
-  2.2 Atmospheres and Ionospheres (Leigh Fletcher, Thibault Cavalie, Amy Simon, Henrik Melin, Julie Moses, Ricardo Hueso)
+  2.2 Atmospheres and Ionospheres (Leigh Fletcher, Thibault Cavalie, Amy Simon, Henrik Melin, Julie Moses, Ricardo Hueso, Paul Hartogh, David Andrews, Davide Grassi)
 
-  2.3 Magnetospheres (Elias Roussos, Laurent Lamy, Lea Griton, David Andrews, Adam Masters)
+  2.3 Magnetospheres (Elias Roussos, Laurent Lamy, Lea Griton, David Andrews, Adam Masters, Nicolas Andre, Emma Bunce, Christina Plainaki)
 
   2.4 Satellites - Natural and Captured (Geraint Jones, Federico Tosi, Michele Bannister, Francesca Ferri)
 
   2.5 Ring Systems (Sebastien Charnoz,  Juergen Schmidt)
 
-**3. Ice Giant Missions in Context**
+**3. Ice Giant Science in Context**
 
   3.1 Astronomical observatories
 
-  3.2 Heliophysics
+  3.2 Heliophysics Connection
 
-  3.3 Exoplanet Connections
+  3.3 Exoplanet & Brown Dwarc Connection
 
 **4. Ice Giant Missions**
 
-  4.1 Potential Architectures
+  4.1 Architectures: The Case for Orbiters
 
-  4.2 Enabling Technologies
+  4.2 Timeliness and Launch Opportunities
 
-  4.3 Timeliness and Launch Opportunities
+  4.3 Enabling Technologies
 
 **5. Summary and Perspectives**
 
-The author list spans the UK, Italy, France, Germany, Spain, Switzerland, Sweden, Finland, and the USA, and more will be added depending on gaps in capabilities.  
-
-### Call for Supporters
-The preparation of this Ice Giant Systems white paper provides an opportunity for us to showcase support for such a mission across Europe, and across the globe.  If you would like to show your support for a future mission to the Ice Giants, please fill out the short 10-second form at [this link.](https://docs.google.com/forms/d/e/1FAIpQLSfkpexiUf9L4bK_4NNMzwPuU9Hm1S2D_UFaE8RJMuTIFdItKw/viewform?usp=sf_link)
+The author list spans the UK, Italy, France, Germany, Spain, Switzerland, Sweden, Finland, Israel and the USA.  
