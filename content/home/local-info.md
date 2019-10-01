@@ -45,6 +45,24 @@ subtitle = ""
 
 Details on accommodation and transport during your stay in London.
 
-Please check back for further details.
+Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).  Information about Burlington House (for the splinter meetings) is [available here](http://burlingtonhouse.org/), and the nearest Underground stations are Green Park and Piccadilly Circus.
 
-Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).
+## Hotels
+
+London accommodation can be expensive, so you are advised to book early.  The following list of hotels provide good value for money, but the organisers take no responsibility for the quality of the accommodation.
+
+* Imperial Hotels group - multiple locations near Russell Square - https://www.imperialhotels.co.uk
+
+* Mayflower Hotel, Earls Court - https://www.mayflowerhotel.co.uk/
+
+* Merlyn Court Hotel, Earls Court - http://www.merlyncourthotel.com/home3.htm
+
+* Millennium Gloucester Hotel - mid-range prices, https://www.millenniumhotels.com/en/london/millennium-gloucester-hotel-london-kensington/
+
+* Mitre House, Paddington - mid-range prices, http://www.mitrehousehotel.com/mitre-house
+
+* Ridge Mount hotel, mid-range prices, https://www.ridgemounthotel.co.uk
+
+* Travelodge Kings Cross - https://www.travelodge.co.uk/hotels/269/London-Central-Kings-Cross-Royal-Scot-hotel
+
+* Travelodge Covent Garden - https://www.travelodge.co.uk/hotels/318/London-Central-Covent-Garden-hotel
