@@ -43,30 +43,51 @@ subtitle = ""
  css_class = ""
 +++
 
-## January 20th 2020:
-* Ravit Helled, University of Zurich (Origins of the Ice Giants)
-* Jonathan Fortney, UC Santa Cruz (Interiors of Ice Giants)
-* Ricardo Hueso, University of Bilbao (Atmospheric Dynamics and Clouds)
-* Julianne Moses, Space Science Institute (Atmospheric Chemistry)
-* Henrik Melin, University of Leicester (Upper Atmosphere and Ionosphere)
-* Krista Soderlund, University of Texas (Ice Giant Dynamos)
-* Carol Paty, University of Oregon (Ice Giant Magnetospheres)
-* Laurent Lamy, Observatoire de Paris Meudon (Ice Giant Auroras)
-* Mark Showalter, SETI Institute (Rings of Uranus and Neptune)
-* Elizabeth Turtle, APL, Maryland (Satellites of Uranus)
-* Michele Bannister, Queens University Belfast (Triton and the KBO Connection)
-* Poster Session 17:00-18:15
+## Day One:  January 20th 2020:
+### Session 1 09:00-12:30: Ice Giant Planets
+* 09:15-09:45 *Origin, evolution, and internal structure of the ice giants,* Professor Ravit Helled, University of Zurich, Switzerland
+* 09:45-10:15 *Interior structure and energy balance on the Ice Giants,* Dr Jonathan Fortney, University of California, Santa Cruz, USA
+* 10:15-10:30 Discussion - interiors objectives
+* 10:30-11:00 Coffee break
+* 11:00-11:25 *Atmospheric dynamics and cloud structure of the ice giants,* Dr Ricardo Hueso, University of Bilbao, Spain
+* 11:25-11:50 *Photochemistry in the atmospheres of Uranus and Neptune,* Dr Julianne Moses, Space Science Institute, USA
+* 11:50-12:15 *The upper atmospheres of the ice giants,* Dr Henrik Melin, University of Leicester, UK
+* 12:15-12:30 Discussion 2 - Atmospheric objectives
 
-## January 21st 2020:
-* Heidi Hammel, Space Science Institute (A Voyager Retrospective)
-* TBD (The Exoplanetary Perspective)
-* Abigail Rymer, APL, Maryland (The Heliophysics Perspective)
-* Mark Hofstadter, JPL (US Perspectives on Ice Giant Missions)
-* TBD (European Perspectives on Ice Giant Missions)
-* John Elliot, JPL (Mission Design Prospects)
-* Tom Spilker, JPL (Enabling Technologies for Ice Giants)
-* Richard Ambrosi, University of Leicester (Space Nuclear Power)
-* Discussion:  Strategies for Ice Giant Missions in the 2020s
+### Session 2 13:30-17:00: Ice Giant Systems
+* 13:30-13:55 *Dynamos of ice giant planets,* Dr Krista Soderlund, University of Texas at Austin, USA
+* 13:55-14:20 *Ice giant magnetospheres,* Dr Carol Paty, University of Oregon, USA
+* 14:20-14:45 *Ice giant auroras,* Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France
+* 14:45-15:00 Discussion - magnetic field objectives
+* 15:00-15:30 Tea break
+* 15:30-15:55 *The rings and inner satellites of Uranus and Neptune,* Dr Mark Showalter, SETI Institute, USA
+* 15:55-16:20 *The Uranian satellite system,* Dr Elizabeth Turtle, JHU-APL, Maryland, USA
+* 16:20-16:45 *Triton and the Kuiper Belt connection,* Dr Michele Bannister, Queen's University Belfast, UK
+* 16:45-17:00 Discussion - Satellite/rings objectives
 
-## January 22nd 2020:
+### Poster Session 17:30-18:30
+
+## Day Two:  January 21st 2020:
+### Session 3 09:00-12:30: Cross-disciplinary perspectives
+* 09:00-09:25 *Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune,* Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA
+* 09:25-09:50 *The exoplanet perspective,* Dr. Hannah Wakeford, Space Telescope Science Institute, USA
+* 09:50-10:15 *Cross-NASA divisional relevance of an ice giant mission,* Dr Abigail Rymer, JHU-APL, Maryland, USA
+* 10:15-10:30 Discussion - summary of knowledge gaps
+* 10:30-11:00 Coffee
+* 11:00-11:30 *US Perspectives on ice giant missions,* Dr Mark Hofstadter, JPL/Caltech, USA
+* 11:30-12:00 ESA perspectives - study outcomes (TBC)
+* 12:00-12:30 Discussion - individual agencies and mission proposals
+
+### Session 4 13:30-17:00: Enabling technologies
+* 13:30-13:55 *Mission design prospects,* John Elliot, JPL, USA
+* 13:55-14:20 *Enabling technologies for ice planet exploration,* Dr Thomas R Spilker, Independent Consultant, USA
+* 14:20-14:45 *The development of European radioisotope space nuclear power systems,* Dr Richard Ambrosi, University of Leicester, USA
+* 14:45-15:00 Discussion - technologies
+* 15:00-15:30 Tea
+* 15:30-16:00 *Strategy for coordination 2020+,* Dr Amy Simon, NASA Goddard Spaceflight Center, USA, and Dr Mark Hofstadter, JPL/Caltech, USA
+* 16:00-17:00 Panel discussion
+
+
+
+## Day Three:  January 22nd 2020:
 * Splinter Sessions
