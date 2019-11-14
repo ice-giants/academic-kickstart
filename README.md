@@ -68,3 +68,8 @@ git add .
 git commit -m "Build website"
 git push origin master
 cd ..
+
+Detached head:
+git branch my-temporary-work
+git checkout master
+git merge my-temporary-work
