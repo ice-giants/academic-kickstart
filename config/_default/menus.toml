@@ -16,17 +16,26 @@
 [[main]]
     name = "Programme"
     url = "#programme"
-    weight = 35
+    weight = 15
 
+[[main]]
+        name = "Splinter"
+        url = "#splinter"
+        weight = 16
+
+[[main]]
+                name = "Posters"
+                url = "#posters"
+                weight = 17
 [[main]]
     name = "Invited Speakers"
     url = "#invitees"
     weight = 40
 
 [[main]]
-    name = "Registration & Abstracts"
+    name = "Registration"
     url = "#registration"
-    weight = 30
+    weight = 45
 
 [[main]]
     name = "Organisers"

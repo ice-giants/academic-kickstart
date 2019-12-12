@@ -5,10 +5,10 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Venue"
+title = "Venue & Format"
 subtitle = ""
 
 [design]
@@ -43,10 +43,12 @@ subtitle = ""
  css_class = ""
 +++
 
-The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the [Royal Society](https://royalsociety.org/), in their [Wellcome Trust](https://royalsociety.org/venue-hire-central-london/wellcome-lecture/) lecture theatre.  Advance registration is essential via [this link.](https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/)
+The Ice Giant Systems workshop will be consist of four distinct components:
 
-Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).
+1. **Plenary Presentations:** The first two days (January 20th-21st 2020) of the Ice Giant workshop will take place at the prestigious London home of the [Royal Society](https://royalsociety.org/), in their [Wellcome Trust](https://royalsociety.org/venue-hire-central-london/wellcome-lecture/) lecture theatre. Talks will cover Ice Giant System science (origins, interiors, atmospheres, magnetospheres, satellites, rings), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.  Instructions for reaching the Royal Society are [available here](https://royalsociety.org/about-us/contact-us/carlton-house-terrace-london/).  Advance registration is essential and will remain open via [this link.](https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/).
 
-The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).  Details on abstract submission and splinter-meeting registration are available below.
+2. **Poster Presentations:** A dedicated poster session will take place at the Royal Society on Monday January 20th, showcasing the latest research.  Further posters will be available during the Splinter sessions on Wednesday January 22nd (see below). Abstracts submitted to these sessions will be available to plenary speakers for their invited reviews.  Poster abstract submissions closed on December 10th.
 
-The Royal Society and Burlington House are separated by a 12-minute walk via St. James's Square Gardens.
+3. **Splinter Sessions:** The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society and Royal Geological Society).  Contributed oral presentations cover two broad themes: *Ice Giant Planets* (Atmospheres, Origins and Interiors) and *Ice Giant Systems* (Magnetospheres, Auroras, Rings and Satellites).  The Royal Society and Burlington House are separated by a 12-minute walk via St. James's Square Gardens.  Splinter session registration closed on December 10th.
+
+4. **Review Papers:** Outcomes of plenary sessions, poster sessions, and splinter meetings will be summarised by our invited speakers in a dedicated special issue of the prestigious *Philosophical Transactions of the Royal Society.*

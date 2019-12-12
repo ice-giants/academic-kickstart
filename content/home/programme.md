@@ -5,10 +5,10 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 32  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Programme"
+title = "Plenary Programme"
 subtitle = ""
 
 [design]
@@ -43,12 +43,56 @@ subtitle = ""
  css_class = ""
 +++
 
-The Ice Giant Systems workshop will be consist of four distinct components:
+## Day One:  January 20th 2020:
+### Session 1 09:00-12:30: Ice Giant Planets
+* 09:15-09:45 *Origin, evolution, and internal structure of the ice giants,* Professor Ravit Helled, University of Zurich, Switzerland
+* 09:45-10:15 *Interior structure and energy balance on the Ice Giants,* Dr Jonathan Fortney, University of California, Santa Cruz, USA
+* 10:15-10:30 Discussion - interiors objectives
+* 10:30-11:00 Coffee break
+* 11:00-11:25 *Atmospheric dynamics and cloud structure of the ice giants,* Dr Ricardo Hueso, University of Bilbao, Spain
+* 11:25-11:50 *Photochemistry in the atmospheres of Uranus and Neptune,* Dr Julianne Moses, Space Science Institute, USA
+* 11:50-12:15 *The upper atmospheres of the ice giants,* Dr Henrik Melin, University of Leicester, UK
+* 12:15-12:30 Discussion 2 - Atmospheric objectives
 
-1. **Invited Reviews:** Talks at the [Royal Society](https://royalsociety.org/) (Monday and Tuesday, January 20th-21st) covering Ice Giant System science (origins, interiors, atmospheres, magnetospheres, satellites, rings), the connections to Exoplanetary science and heliophysics, and potential mission concepts and technologies to enable our future robotic explorers.
+### Session 2 13:30-15:00: Ice Giant Magnetospheres
+* 13:30-13:55 *Dynamos of ice giant planets,* Dr Krista Soderlund, University of Texas at Austin, USA
+* 13:55-14:20 *Ice giant magnetospheres,* Dr Carol Paty, University of Oregon, USA
+* 14:20-14:45 *Ice giant auroras,* Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France
+* 14:45-15:00 Discussion - magnetic field objectives
+* 15:00-15:30 Tea break
 
-2. **Contributed posters:** A dedicated session at the Royal Society on Monday January 20th, showcasing the latest research.  Abstracts submitted to this session will be available to plenary speakers for their invited reviews.
+### Session 3 15:30-17:00: Agency Perspectives
+* 15:30-16:00 *US Perspectives on ice giant missions,* Dr Mark Hofstadter, JPL/Caltech, USA
+* 16:00-16:30 *ESA perspectives on ice giant missions,* Dr. Fabio Favata and Dr. Luigi Colangeli
+* 16:30-17:00 Discussion - individual agencies and mission proposals
 
-3. **Splinter Sessions:** Contributed oral presentations for Splinter Sessions on Wednesday January 22nd in three themes:  Ice Giant Atmospheres, Origins and Interiors; Ice Giant Magnetospheres and Auroras; Ice Giant Rings and Satellites.  Splinter Sessions will occur at [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society, Royal Geological Society, and the Linnean Society).
 
-4. **Review Papers:** Outcomes of plenary sessions, poster sessions, and splinter meetings will be summarised by our invited speakers in a dedicated special issue of the prestigious *Philosophical Transactions of the Royal Society.*
+### Poster Session 17:30-18:30
+
+## Day Two:  January 21st 2020:
+### Session 4 09:00-12:30: Cross-disciplinary perspectives
+* 09:00-09:25 *Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune,* Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA
+* 09:25-09:50 *The exoplanet perspective,* Dr. Hannah Wakeford, Space Telescope Science Institute, USA
+* 09:50-10:15 *Cross-NASA divisional relevance of an ice giant mission,* Dr Abigail Rymer, JHU-APL, Maryland, USA
+* 10:15-10:30 Discussion - summary of knowledge gaps
+* 10:30-11:00 Coffee
+
+### Session 5 11:00-12:30: Ice Giant Systems
+* 11:00-11:25 *The rings and inner satellites of Uranus and Neptune,* Dr Mark Showalter, SETI Institute, USA
+* 11:25-11:50 *The Uranian satellite system,* Dr Elizabeth Turtle, JHU-APL, Maryland, USA
+* 11:50-12:15 *Triton and the Kuiper Belt connection,* Dr Michele Bannister, Queen's University Belfast, UK
+* 12:15-12:30 Discussion - Satellite/rings objectives
+
+### Session 6 13:30-17:00: Enabling technologies
+* 13:30-13:55 *Mission design prospects,* John Elliot, JPL, USA
+* 13:55-14:20 *Enabling technologies for ice planet exploration,* Dr Thomas R Spilker, Independent Consultant, USA
+* 14:20-14:45 *The development of European radioisotope space nuclear power systems,* Dr Richard Ambrosi, University of Leicester, USA
+* 14:45-15:00 Discussion - technologies
+* 15:00-15:30 Tea
+* 15:30-16:00 *Strategy for coordination 2020+,* Dr Amy Simon, NASA Goddard Spaceflight Center, USA, and Dr Mark Hofstadter, JPL/Caltech, USA
+* 16:00-17:00 Panel discussion
+
+
+
+## Day Three:  January 22nd 2020:
+* Splinter Sessions - see below.
