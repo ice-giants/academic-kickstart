@@ -52,3 +52,5 @@ The Ice Giant Systems workshop will be consist of four distinct components:
 3. **Splinter Sessions:** The third day (January 22nd 2020) of the workshop will feature Splinter Sessions hosted at the Learned Institutions of [Burlington House](http://burlingtonhouse.org/) (Royal Astronomical Society and Royal Geological Society).  Contributed oral presentations cover two broad themes: *Ice Giant Planets* (Atmospheres, Origins and Interiors) and *Ice Giant Systems* (Magnetospheres, Auroras, Rings and Satellites).  The Royal Society and Burlington House are separated by a 12-minute walk via St. James's Square Gardens.  Splinter session registration closed on December 10th.
 
 4. **Review Papers:** Outcomes of plenary sessions, poster sessions, and splinter meetings will be summarised by our invited speakers in a dedicated special issue of the prestigious *Philosophical Transactions of the Royal Society.*
+
+You can now download the [Full Programme (PDF)](https://github.com/ice-giants/papers/raw/master/IG2020_ProgrammeBook.pdf).

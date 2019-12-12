@@ -51,7 +51,7 @@ Two parallel splinter sessions will take place between 10:00-17:00 on January 22
 * A small number of poster boards will be available at the Geological Society during lunch, 12:00-13:00.
 * Afternoon tea/coffee is provided in the separate buildings, 14:45-15:15.
 * Arrival is from 09:30, talks start at 10:00.
-*
+* You can now download the [Full Programme (PDF)](https://github.com/ice-giants/papers/raw/master/IG2020_ProgrammeBook.pdf).
 
 ## Ice Giant Planets - Origins, Interiors, and Atmospheres
 Talks are 15 minutes unless otherwise stated - plan for 12 minutes with 3 minutes of Q&A and handover.  Please bring slides to the Session Chair in advance of your session.

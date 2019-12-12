@@ -42,6 +42,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+You can now download the [Full Programme (PDF)](https://github.com/ice-giants/papers/raw/master/IG2020_ProgrammeBook.pdf).
 
 ## Day One:  January 20th 2020:
 ### Session 1 09:00-12:30: Ice Giant Planets
