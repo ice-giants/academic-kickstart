@@ -76,6 +76,7 @@ Poster boards are set up in the Dining Room during the final session of Day One.
 1. Sayanagi et al. - SNAP: Small Next-generation Atmospheric Probe
 1. Scheibe et al. - Thermal Evolution of Uranus and Neptune
 1. Soyuer et al. - Constraining the Depth of the Winds in Uranus and Neptune
+1. Tortora et al. -	Gravity and Atmospheric Science at Ice Giants through Radio Tracking from Earth
 1. Venkatapathy et al. - Enabling Entry Technologies for Ice Giant Missions
 
 
