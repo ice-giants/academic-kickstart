@@ -86,6 +86,6 @@ Poster boards will be set up in the Lower Library at the Geological Society duri
 
 1. Colyer et al. -	Semi-grey radiative modelling of giant-planet atmospheres
 1. Brueshaber et al. -	Polar Vortex Dynamics on Gas and Ice Giant Planets
-1. d'Ollone et al. -	Radiative modelling of the Ice Giant atmospheres – A first step toward Global Circulation Models
+1. Vatant d'Ollone et al. -	Radiative modelling of the Ice Giant atmospheres – A first step toward Global Circulation Models
 1. Nordheim et al. -	Digital elevation modelling of Uranian moons using Voyager 2 images
 1. Atkinson et al. -	Measurements of Ice Giant Atmospheric Dynamics and Composition from Radiometric Tracking of an Entry Probe
