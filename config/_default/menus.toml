@@ -27,10 +27,6 @@
                 name = "Posters"
                 url = "#posters"
                 weight = 17
-[[main]]
-    name = "Invited Speakers"
-    url = "#invitees"
-    weight = 40
 
 [[main]]
     name = "Registration"
