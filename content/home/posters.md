@@ -89,3 +89,4 @@ Poster boards will be set up in the Lower Library at the Geological Society duri
 1. Vatant d'Ollone et al. -	Radiative modelling of the Ice Giant atmospheres – A first step toward Global Circulation Models
 1. Nordheim et al. -	Digital elevation modelling of Uranian moons using Voyager 2 images
 1. Atkinson et al. -	Measurements of Ice Giant Atmospheric Dynamics and Composition from Radiometric Tracking of an Entry Probe
+1. Li et al. - Future Exploration of the Radiant Energy Budgets and Internal Heat of Uranus and Neptune
