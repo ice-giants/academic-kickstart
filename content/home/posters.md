@@ -90,3 +90,11 @@ Poster boards will be set up in the Lower Library at the Geological Society duri
 1. Nordheim et al. -	Digital elevation modelling of Uranian moons using Voyager 2 images
 1. Atkinson et al. -	Measurements of Ice Giant Atmospheric Dynamics and Composition from Radiometric Tracking of an Entry Probe
 1. Li et al. - Future Exploration of the Radiant Energy Budgets and Internal Heat of Uranus and Neptune
+1.	Kegerreis et al. - Knocking Over an Ice Giant: High-Resolution Simulations of Collisions and their Consequences
+1.	Blanc et al. - Science Goals and Mission Objectives for the Future Exploration of Ice Giants Systems: A Horizon 2061 Perspective
+1.	Izraelevitz et al. - Feasibility of an Ice Giant Deep Probe (1kbar)
+1.	Probst et al. - IPED: Study on the Impact of the Entry Zone on the Trajectory and Design of a Planetary Entry Probe
+1.	Sayanagi et al. - SNAP: Small Next-generation Atmospheric Probe
+1.	Nixon et al. - The CIRS-Lite Infrared Fourier Transform Spectrometer for missions to the Ice Giants
+1.	Aslam et al. - Net Flux Radiometer for Ice Giant Probes
+1.	Jarmak et al - QUEST: A New Frontiers Uranus Orbiter Concept Study

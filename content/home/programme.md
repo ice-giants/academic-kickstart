@@ -70,6 +70,9 @@ You can now download the [Full Programme (PDF)](https://github.com/ice-giants/pa
 
 ### Poster Session 17:30-18:30
 
+### Early-Career Networking Event 19:00-21:00
+On the evening of Monday 20th January, the first floor of the Golden Lion pub is reserved for students and early career researchers attending the Ice Giant Systems 2020 meeting. Come and enjoy a casual drink at this quaint English pub that is only a 5 minute walk from the Royal Society venue where the first day of talks is taking place. Feel free to join any time between 7pm and 9pm, anyone is welcome.  Address: Golden Lion, 25 King St, St. James’s, London SW1Y 6QY
+
 ## Day Two:  January 21st 2020:
 ### Session 4 09:00-12:30: Cross-disciplinary perspectives
 * 09:00-09:25 *Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune,* Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA
