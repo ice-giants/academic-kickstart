@@ -82,16 +82,12 @@ user_groups = []
 
 The Ice Giants, **Uranus and Neptune**, are the least explored class of planets in our Solar System, having been visited only once by a passing spacecraft, Voyager 2.  These distant Ice Giant Systems may be hiding secrets that could reveal the origins of our Solar System, and are our nearest and best representatives of a type of planet that is commonplace in our universe.
 
-In January 2020, Planetary Scientists from around the world will meet at London's prestigious [Royal Society](https://royalsociety.org/) for a three-day workshop on the future exploration of the Uranus and Neptune systems.  We will aim to shape the key scientific questions that will drive mission planning in the coming decade, aiming to make use of ideal launch opportunities around 2030.  You can now download the [Full Programme (PDF)](https://github.com/ice-giants/papers/raw/master/IG2020_ProgrammeBook.pdf).
+In January 2020, Planetary Scientists from around the world met at London's prestigious [Royal Society](https://royalsociety.org/) for a three-day workshop on the future exploration of the Uranus and Neptune systems.  We aimed to shape the key scientific questions that will drive mission planning in the coming decade, aiming to make use of ideal launch opportunities around 2030.  You can now download the [Full Programme (PDF)](https://github.com/ice-giants/papers/raw/master/IG2020_ProgrammeBook.pdf).  
 
-Registration for the plenary meeting (Jan 20-21st at the Royal Society) remains [open](https://royalsociety.org/science-events-and-lectures/2020/01/ice-giants/).  Registration for the Splinter meetings (Jan 22nd at Burlington House) is now closed, as are abstract submission for the contributed poster/oral sessions.  The programme for both the plenaries and parallel splinters can be found below.
+The organisers have prepared a [Statement of Meeting Outcomes](https://github.com/ice-giants/papers/raw/master/IG2020_MeetingStatement.pdf), capturing the key discussion points of the meeting, and the future strategy for coordination to realise our aims of an ambitious, paradigm-shifting mission to the Ice Giants in the coming decade.
 
-Please note the following changes:
+Photographs from the event are being [hosted on Flickr](https://www.flickr.com/photos/186601760@N03/), including a group photograph taken on Tuesday 21st January in the Marble Hall of the Royal Society.   
 
-* A session on NASA/ESA perspectives on Ice Giant missions has been moved from Tuesday morning to Monday afternoon to accommodate our invited speakers.  This means the session on Ice Giant Satellites/Rings has now moved to Tuesday morning.
-* The Monday evening poster session was heavily oversubscribed, such that some requests for *both* orals and posters could not be met.  Poster boards will now also be provided on Wednesday during the splinter session at the Royal Geological Society.
-* Originally three splinter sessions were envisaged on Wednesday 22nd January, but given undersubscription of one theme, there will now only be two parallel splinters (one at the Royal Astronomical Society, and one at the Geological Society).
-
-Get involved on social media via the hashtag [\#IceGiants2020](https://twitter.com/hashtag/IceGiants2020) and [@IcyGiants](https://twitter.com/IcyGiants).
+The meeting organisers used social media in attempt to generate wider excitement for proposed missions to the Ice Giants. You can view some of the conversations [here](https://twitter.com/hashtag/IceGiants2020), and can still get involved via [@IcyGiants](https://twitter.com/IcyGiants).
 
 *Email updates:  for updates, please send an email with the subject "Subscribe" to [this address](mailto:ice-giants@le.ac.uk). Your email will only be used for information associated with Ice Giant mission planning and meeting organisation, and you can unsubscribe at any time.*

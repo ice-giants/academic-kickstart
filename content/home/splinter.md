@@ -43,7 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Two parallel splinter sessions will take place between 10:00-17:00 on January 22nd 2020 at Burlington House.  Attendance at the splinter meetings is by prior registration only, and registration closed on December 10th 2019.
+Two parallel splinter sessions took place between 10:00-17:00 on January 22nd 2020 at Burlington House.  
 
 * *Ice Giant Planets - Origins, Interiors, and Atmospheres* will take place at the [Royal Astronomical Society](https://ras.ac.uk/).
 * *Ice Giant Systems - Magnetospheres, Auroras, Satellites and Rings* will take place at the  [Geological Society](https://www.geolsoc.org.uk/).
