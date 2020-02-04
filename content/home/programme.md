@@ -89,7 +89,7 @@ On the evening of Monday 20th January, the first floor of the Golden Lion pub is
 * 12:15-12:30 Discussion - Satellite/rings objectives
 
 ### Session 6 13:30-17:00: Enabling technologies
-* 13:30-13:55 *Mission design prospects,* John Elliot, JPL, USA
+* 13:30-13:55 [*Mission design prospects,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_missiondesign_elliott.pdf) John Elliott, JPL, USA
 * 13:55-14:20 [*Enabling technologies for ice planet exploration,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_technologies_spilker.pdf) Dr Thomas R Spilker, Independent Consultant, USA
 * 14:20-14:45 *The development of European radioisotope space nuclear power systems,* Dr Richard Ambrosi, University of Leicester, USA
 * 14:45-15:00 Discussion - technologies
