@@ -76,7 +76,7 @@ On the evening of Monday 20th January, the first floor of the Golden Lion pub is
 
 ## Day Two:  January 21st 2020:
 ### Session 4 09:00-12:30: Cross-disciplinary perspectives
-* 09:00-09:25 *Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune,* Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA
+* 09:00-09:25 [*Lessons learned from (and since) the Voyager 2 flybys of Uranus and Neptune,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_voyager_hammel.pdf) Dr Heidi Hammel, Association of Universities for Research in Astronomy, USA
 * 09:25-09:50 [*The exoplanet perspective,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_exoplanets_wakeford.pdf) Dr. Hannah Wakeford, Space Telescope Science Institute, USA
 * 09:50-10:15 [*Cross-NASA divisional relevance of an ice giant mission,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_crossdivisional_rymer.pdf) Dr Abigail Rymer, JHU-APL, Maryland, USA
 * 10:15-10:30 Discussion - summary of knowledge gaps
