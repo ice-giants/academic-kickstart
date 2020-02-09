@@ -57,7 +57,7 @@ You can download the [Full Programme (PDF)](https://github.com/ice-giants/papers
 * 12:15-12:30 Discussion 2 - Atmospheric objectives
 
 ### Session 2 13:30-15:00: Ice Giant Magnetospheres
-* 13:30-13:55 *Dynamos of ice giant planets,* Dr Krista Soderlund, University of Texas at Austin, USA
+* 13:30-13:55 [*Dynamos of ice giant planets,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_dynamo_soderlund.pdf) Dr Krista Soderlund, University of Texas at Austin, USA
 * 13:55-14:20 *Ice giant magnetospheres,* Dr Carol Paty, University of Oregon, USA
 * 14:20-14:45 [*Ice giant auroras,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_aurora_lamy.pdf) Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France
 * 14:45-15:00 Discussion - magnetic field objectives
@@ -91,7 +91,7 @@ On the evening of Monday 20th January, the first floor of the Golden Lion pub is
 ### Session 6 13:30-17:00: Enabling technologies
 * 13:30-13:55 [*Mission design prospects,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_missiondesign_elliott.pdf) John Elliott, JPL, USA
 * 13:55-14:20 [*Enabling technologies for ice planet exploration,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_technologies_spilker.pdf) Dr Thomas R Spilker, Independent Consultant, USA
-* 14:20-14:45 *The development of European radioisotope space nuclear power systems,* Dr Richard Ambrosi, University of Leicester, USA
+* 14:20-14:45 [*The development of European radioisotope space nuclear power systems,*](https://link.springer.com/article/10.1007/s11214-019-0623-9) Dr Richard Ambrosi, University of Leicester, USA
 * 14:45-15:00 Discussion - technologies
 * 15:00-15:30 Tea
 * 15:30-16:00 [*Strategy for coordination 2020+,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_strategydiscussion_simon.pdf) Dr Amy Simon, NASA Goddard Spaceflight Center, USA, and Dr Mark Hofstadter, JPL/Caltech, USA
