@@ -58,7 +58,7 @@ You can download the [Full Programme (PDF)](https://github.com/ice-giants/papers
 
 ### Session 2 13:30-15:00: Ice Giant Magnetospheres
 * 13:30-13:55 [*Dynamos of ice giant planets,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_dynamo_soderlund.pdf) Dr Krista Soderlund, University of Texas at Austin, USA
-* 13:55-14:20 *Ice giant magnetospheres,* Dr Carol Paty, University of Oregon, USA
+* 13:55-14:20 []*Ice giant magnetospheres,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_magnetospheres_paty.pdf) Dr Carol Paty, University of Oregon, USA
 * 14:20-14:45 [*Ice giant auroras,*](https://github.com/ice-giants/papers/raw/master/presentation/IGs2020_aurora_lamy.pdf) Dr Laurent Lamy, Observatoire de Paris, PSL, CNRS, France
 * 14:45-15:00 Discussion - magnetic field objectives
 * 15:00-15:30 Tea break
